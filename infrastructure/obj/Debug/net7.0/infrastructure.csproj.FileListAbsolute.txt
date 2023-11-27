@@ -1,0 +1,15 @@
+C:\Users\z004rdry\source\repos\store-api\infrastructure\obj\Debug\net7.0\infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rdry\source\repos\store-api\infrastructure\obj\Debug\net7.0\infrastructure.AssemblyInfoInputs.cache
+C:\Users\z004rdry\source\repos\store-api\infrastructure\obj\Debug\net7.0\infrastructure.AssemblyInfo.cs
+C:\Users\z004rdry\source\repos\store-api\infrastructure\obj\Debug\net7.0\infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\z004rdry\source\repos\store-api\infrastructure\bin\Debug\net7.0\infrastructure.deps.json
+C:\Users\z004rdry\source\repos\store-api\infrastructure\bin\Debug\net7.0\infrastructure.dll
+C:\Users\z004rdry\source\repos\store-api\infrastructure\bin\Debug\net7.0\infrastructure.pdb
+C:\Users\z004rdry\source\repos\store-api\infrastructure\bin\Debug\net7.0\core.dll
+C:\Users\z004rdry\source\repos\store-api\infrastructure\bin\Debug\net7.0\core.pdb
+C:\Users\z004rdry\source\repos\store-api\infrastructure\obj\Debug\net7.0\infrastructure.csproj.AssemblyReference.cache
+C:\Users\z004rdry\source\repos\store-api\infrastructure\obj\Debug\net7.0\infrastructure.csproj.CopyComplete
+C:\Users\z004rdry\source\repos\store-api\infrastructure\obj\Debug\net7.0\infrastructure.dll
+C:\Users\z004rdry\source\repos\store-api\infrastructure\obj\Debug\net7.0\refint\infrastructure.dll
+C:\Users\z004rdry\source\repos\store-api\infrastructure\obj\Debug\net7.0\infrastructure.pdb
+C:\Users\z004rdry\source\repos\store-api\infrastructure\obj\Debug\net7.0\ref\infrastructure.dll

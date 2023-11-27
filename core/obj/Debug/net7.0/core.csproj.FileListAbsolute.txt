@@ -1,0 +1,11 @@
+C:\Users\z004rdry\source\repos\store-api\core\bin\Debug\net7.0\core.deps.json
+C:\Users\z004rdry\source\repos\store-api\core\bin\Debug\net7.0\core.dll
+C:\Users\z004rdry\source\repos\store-api\core\bin\Debug\net7.0\core.pdb
+C:\Users\z004rdry\source\repos\store-api\core\obj\Debug\net7.0\core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004rdry\source\repos\store-api\core\obj\Debug\net7.0\core.AssemblyInfoInputs.cache
+C:\Users\z004rdry\source\repos\store-api\core\obj\Debug\net7.0\core.AssemblyInfo.cs
+C:\Users\z004rdry\source\repos\store-api\core\obj\Debug\net7.0\core.csproj.CoreCompileInputs.cache
+C:\Users\z004rdry\source\repos\store-api\core\obj\Debug\net7.0\core.dll
+C:\Users\z004rdry\source\repos\store-api\core\obj\Debug\net7.0\refint\core.dll
+C:\Users\z004rdry\source\repos\store-api\core\obj\Debug\net7.0\core.pdb
+C:\Users\z004rdry\source\repos\store-api\core\obj\Debug\net7.0\ref\core.dll

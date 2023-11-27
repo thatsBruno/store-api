@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "store-api", "store-api\store-api.csproj", "{5CC5D70E-C05B-4372-AB9E-47834F62C233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core", "core\core.csproj", "{2DEBCBBE-08EF-427A-AAC5-3C6017B2F9FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "infrastructure", "infrastructure\infrastructure.csproj", "{0E8E36A4-B9BB-4BBB-8394-8C0F0B5A0D07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CC5D70E-C05B-4372-AB9E-47834F62C233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CC5D70E-C05B-4372-AB9E-47834F62C233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CC5D70E-C05B-4372-AB9E-47834F62C233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CC5D70E-C05B-4372-AB9E-47834F62C233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DEBCBBE-08EF-427A-AAC5-3C6017B2F9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEBCBBE-08EF-427A-AAC5-3C6017B2F9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEBCBBE-08EF-427A-AAC5-3C6017B2F9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEBCBBE-08EF-427A-AAC5-3C6017B2F9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E8E36A4-B9BB-4BBB-8394-8C0F0B5A0D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8E36A4-B9BB-4BBB-8394-8C0F0B5A0D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8E36A4-B9BB-4BBB-8394-8C0F0B5A0D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8E36A4-B9BB-4BBB-8394-8C0F0B5A0D07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0131797-0731-470C-A420-B5E1FA9B2A6E}
+	EndGlobalSection
+EndGlobal
