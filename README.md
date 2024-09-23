@@ -14,3 +14,5 @@ Locally the project uses SQLite just for the simplefication purpose of the appli
 - Specification Pattern
 - Caching
 - Automapper in ASP.NET Core
+
+![products-app2](https://github.com/user-attachments/assets/fa459421-33a9-40fe-81a2-62e3a2bc0fae)
